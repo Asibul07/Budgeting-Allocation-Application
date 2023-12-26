@@ -1,35 +1,39 @@
 # Budget Allocation Application
 
-Welcome to the Budget Allocation Application project! This application is developed using Vite and React and aims to assist users in managing their budget effectively.
+## Overview
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-Provide a brief introduction to your project. What problem does it solve? Why did you create it?
+The Budget Allocation Application is a web-based tool developed using Vite and React to help users manage and allocate their budgets effectively. This application provides a user-friendly interface for budget planning, tracking expenses, and optimizing resource allocation.
 
 ## Features
 
-Highlight the key features of your Budget Allocation Application. What makes it unique and useful?
+- **Intuitive Dashboard:** View a comprehensive overview of your budget and expenses at a glance.
+
+- **Expense Tracking:** Log and categorize your expenses to better understand where your money is going.
+
+- **Budget Planning:** Plan and allocate budgets for different categories to meet your financial goals.
+
+- **Interactive Charts:** Visualize your budget data with interactive charts for better insights.
+
+- **Responsive Design:** Access the application seamlessly on various devices, ensuring a consistent user experience.
 
 ## Getting Started
 
-Include instructions on how to set up the project locally. List any prerequisites and steps to get the development environment ready.
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+
+### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Budget-Allocation-Application.git
+git clone https://github.com/Asibul07/Budget-Allocation-Application.git
 
 # Navigate to the project directory
 cd Budget-Allocation-Application
 
 # Install dependencies
 npm install
+
+# Run the development server
+npm run dev
+   
