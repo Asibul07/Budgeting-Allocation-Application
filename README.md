@@ -1,6 +1,6 @@
 # IBM Developing Front End Apps With React 
 
-##Final Project (Budgeting Allocation Application)
+## Final Project (Budgeting Allocation Application)
 
 ## Overview
 
