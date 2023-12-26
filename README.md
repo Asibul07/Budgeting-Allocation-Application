@@ -1,4 +1,6 @@
-# Budget Allocation Application ## IBM Developing Front End Apps With React ##Final Project (Budgeting Allocation Application)
+# Budget Allocation Application 
+## IBM Developing Front End Apps With React 
+##Final Project (Budgeting Allocation Application)
 
 ## Overview
 
