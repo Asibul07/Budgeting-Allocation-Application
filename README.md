@@ -59,7 +59,7 @@ The Budget Allocation Application is a web-based tool developed using Vite and R
 
 This project is part of the [Developing Front-End Apps with React](https://coursera.org/share/993aebc4a6f700ec6599b50c30959a07) course on Coursera.
 
-[![Certificate](https://www.coursera.org/account/accomplishments/certificate/V5HSSDB2EJG6)](https://coursera.org/share/993aebc4a6f700ec6599b50c30959a07)
+[![Certificate]()](https://coursera.org/share/993aebc4a6f700ec6599b50c30959a07)
 
 
 ## Getting Started
